@@ -1,2 +1,4 @@
 
 This is just a line
+
+This is the second line dummy.
